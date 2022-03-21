@@ -424,6 +424,7 @@ ul.small-circle {
     margin-left: 30px;
 }
 
+
 ul.small-circle li {
     list-style-type: circle;
     margin: 10px 0px;
@@ -1240,21 +1241,50 @@ img.aboutBookCover{
 .table.table-dr-11 thead th {
     vertical-align: top;
     border-bottom: 1px solid #000000;
-    background-color: #90ee90;
+    background-color: #FBD5B5;
+    font-family: 'poppins-semibold';
+}
+.table-dr-111{
+
+}
+.table.table-dr-111 td, .table-dr-11 th{
+    border-color: #000000;
+    padding: 0.2rem;
+
+}
+.table.table-dr-111 thead th {
+    vertical-align: top;
+    border-bottom: 1px solid #000000;
+    background-color: #B7DDE8;
     font-family: 'poppins-semibold';
 }
 
 .table-dr-12{
 
 }
-.table-dr-11 td, .table-dr-11 th{
+.table-dr-12 td, .table-dr-11 th{
     border-color: #000000;
     padding: 0.2rem;
 
 }
-.table.table-dr-11 thead th {
+.table.table-dr-12 thead th {
     vertical-align: top;
     border-bottom: 1px solid #000000;
     background-color: #90ee90;
+    font-family: 'poppins-semibold';
+}
+
+.table.table-dr-13{
+border: #000000;
+}
+.table.table-dr-13 td, .table-dr-11 th{
+    border-color: #000000;
+    padding: 0.2rem;
+
+}
+.table.table.table-dr-13 thead th {
+    vertical-align: top;
+    border-bottom: 1px solid #000000;
+    background-color: #B7DDE8;
     font-family: 'poppins-semibold';
 }
