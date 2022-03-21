@@ -637,11 +637,11 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 120px;
+    font-size: 80px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -5px;
-    line-height: 170px;
+    letter-spacing: 1px;
+    line-height: 87px;
     margin-right: 72px;
 }
 
@@ -680,7 +680,7 @@ h1.main-heading {
 }
 .moreInfo {
     position: absolute;
-    top: 93px;
+    top: -2px;
     left: 10px;
     z-index: 91;
     background: transparent;
@@ -1228,3 +1228,33 @@ img.aboutBookCover{
 
   .zposition{min-width:350px;}
 
+
+  .table-dr-11{
+
+}
+.table-dr-11 td, .table-dr-11 th{
+    border-color: #000000;
+    padding: 0.2rem;
+
+}
+.table.table-dr-11 thead th {
+    vertical-align: top;
+    border-bottom: 1px solid #000000;
+    background-color: #90ee90;
+    font-family: 'poppins-semibold';
+}
+
+.table-dr-12{
+
+}
+.table-dr-11 td, .table-dr-11 th{
+    border-color: #000000;
+    padding: 0.2rem;
+
+}
+.table.table-dr-11 thead th {
+    vertical-align: top;
+    border-bottom: 1px solid #000000;
+    background-color: #90ee90;
+    font-family: 'poppins-semibold';
+}
