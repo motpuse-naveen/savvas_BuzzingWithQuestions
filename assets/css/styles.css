@@ -429,6 +429,28 @@ ul.small-circle li {
     list-style-type: circle;
     margin: 10px 0px;
 }
+table.table-stylebg {
+    border: 1px solid #000000;
+    font-family: 'poppins-light';
+}
+
+table.table-stylebg th {
+    border: 1px solid #000000;
+    background-color: #b7dde8;
+    padding: 0px 5px;
+    font-weight: bold;
+    font-family: 'poppins-semibold'
+}
+
+table.table-stylebg td {
+    border: 1px solid #000000;
+    padding: 0px 5px;
+    text-align: center;
+}
+table.table-stylebg .trbg {
+    background-color: #b7dde8;
+    font-weight: bold;
+}
 table.table-style1 {
     border: 1px solid #000000;
     font-family: 'poppins-light';
@@ -1231,6 +1253,7 @@ img.aboutBookCover{
 
 
   .table-dr-11{
+    text-align: center;
 
 }
 .table-dr-11 td, .table-dr-11 th{
@@ -1244,6 +1267,7 @@ img.aboutBookCover{
     background-color: #FBD5B5;
     font-family: 'poppins-semibold';
 }
+
 .table-dr-111{
 
 }
