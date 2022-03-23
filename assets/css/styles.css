@@ -445,7 +445,7 @@ table.table-stylebg th {
 table.table-stylebg td {
     border: 1px solid #000000;
     padding: 0px 5px;
-    text-align: center;
+    text-align: left;
 }
 table.table-stylebg .trbg {
     background-color: #b7dde8;
@@ -1261,6 +1261,11 @@ img.aboutBookCover{
     padding: 0.2rem;
 
 }
+.table-dr-11 td{
+    text-align: left;
+
+}
+
 .table.table-dr-11 thead th {
     vertical-align: top;
     border-bottom: 1px solid #000000;
