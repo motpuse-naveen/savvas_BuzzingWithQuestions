@@ -299,7 +299,19 @@ a:hover {
     bottom: 0;
     width: 165px;
 }
-
+.side-disclamer11{
+    font-family: "poppins-regular";
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: -200px;
+    margin-right: 11px;
+    position: fixed;
+    bottom: 0;
+    width: 180px;
+}.side-disclamer11 .disctext {
+    font-size: 11px !important;
+    margin-right: 5px !important;
+}
 .bold {
     font-family: "poppins-bold";
 }
