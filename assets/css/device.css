@@ -1,3 +1,6 @@
+.author-wrap span.image{
+    margin-right: 12px;
+}
 @media (max-width:1240px) {
     .popup-left-title {
         font-size: 44px;
@@ -127,8 +130,8 @@
         margin-top: -24px;
     }
     .author-wrap span.text {
-        margin: 15px;
-        margin-top: -24px;
+        /*margin: 15px;*/
+        margin-top: -12px;
         padding-top: 20px;
     }
     .author-container .text{
@@ -211,7 +214,7 @@
         font-size: 15px;
     }
     .author-wrap span.image {
-       width: 59px;
+       /*width: 59px;*/
     }
     .award-circle-wrap {
         padding-left: 191px;
@@ -342,7 +345,7 @@
         right: 25px;
     }
     .author-container .text{
-        font-size: 20px;
+        /*font-size: 20px;*/
     }
     .moreInfo-additionaltxt .title{
         font-size: 19px;
@@ -379,6 +382,9 @@
     .annim-bg-image {
         animation: bgImageSlideMobile 2s normal;
     }
+    h1.main-heading{
+        padding-left: 0px;
+    }
 }
 @media (max-width: 550px) {
     h1.main-heading{
@@ -414,7 +420,7 @@
 
     }
     .author-wrap span.text{
-        margin-left: 27px;
+        margin-left: 0px;
         margin-top: -17px;
     }
     .subheading{
